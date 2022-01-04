@@ -3,7 +3,7 @@ Your eduMate can talk with you
 
 # About
 
-Bu proje Gusto & RemoteTeam Node.js Bootcamp'de yaşanan sorunlardan ilham alınarak hazırlanan projede kullanıcıların bireysel notlarına telgram botu ile interaktif bir konuşma ile ulaşması hedeflenmiştir.
+Bu proje Gusto & RemoteTeam Node.js Bootcamp'de yaşanan sorunlardan ilham alınarak hazırlanan projede kullanıcıların telgram botu ile interaktif olarak ders metaryallerine ulaşması ve bilgi alması hedeflenmiştir.
 
 Screenshots:
 
