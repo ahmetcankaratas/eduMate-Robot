@@ -5,12 +5,11 @@ Your eduMate can talk with you
 
 Bu proje Gusto & RemoteTeam Node.js Bootcamp'de yaşanan sorunlardan ilham alınarak hazırlanan projede kullanıcıların bireysel notlarına telgram botu ile interaktif bir konuşma ile ulaşması hedeflenmiştir.
 
-
 Screenshots:
 
 1            |  2
 :-------------------------:|:-------------------------:
-![]<img src="" width="288"> |  ![]<img src="" width="288">
+![]<img src="https://user-images.githubusercontent.com/53529387/148137308-a270dc79-e217-4955-a25f-057081bba193.jpg" width="288"> |  ![]<img src="https://user-images.githubusercontent.com/53529387/148137320-e55f5573-532b-43c6-9322-6449e4d2ce89.jpg" width="288">
 
 
 
